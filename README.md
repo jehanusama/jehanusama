@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a **Front-End Engineer** based in **Tanta, Egypt**, currently working at **EyeGo.Ai**, building scalable dashboard features and modern, responsive web applications with clean architecture and reusable components.
+I'm a **Front-End Engineer**, currently working at **EyeGo.Ai**, building scalable dashboard features and modern, responsive web applications with clean architecture and reusable components.
 
 - Front-End Engineer @ **EyeGo.Ai**
 - Working mainly with **React.js, Next.js, TypeScript, Redux Toolkit, RTK Query**
