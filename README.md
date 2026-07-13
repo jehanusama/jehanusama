@@ -20,7 +20,7 @@ I'm a **Front-End Engineer** based in **Tanta, Egypt**, currently working at **E
 - Front-End Engineer @ **EyeGo.Ai**
 - Working mainly with **React.js, Next.js, TypeScript, Redux Toolkit, RTK Query**
 - Currently focused on building scalable dashboards & optimizing performance
-- Fun fact: built an **EEG-controlled wheelchair** using brain signals 🧠 *(graduation project)*
+- Always exploring new tools and best practices to write cleaner, more efficient code
 
 <br/>
 
@@ -63,13 +63,6 @@ I'm a **Front-End Engineer** based in **Tanta, Egypt**, currently working at **E
 <br/>
 
 
-## GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehanusama&theme=github_dark"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jehanusama&theme=github_dark"/>
-</div>
-
 ### Contribution Graph
 
 <div align="center">
@@ -78,12 +71,6 @@ I'm a **Front-End Engineer** based in **Tanta, Egypt**, currently working at **E
 
 <br/>
 
-## Education
-
-**Bachelor of Engineering** — Faculty of Engineering, Tanta University *(09/2019 – 06/2024)*
-Electronics & Communication Engineering — Graduated with Honors, 83.13%
-
-<br/>
 
 <div align="center">
 
